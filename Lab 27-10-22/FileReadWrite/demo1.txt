@@ -1,0 +1,3 @@
+Emp Name: Sahu Bhagyashree
+Emp ID: 06
+Emp Salary: 1287654
